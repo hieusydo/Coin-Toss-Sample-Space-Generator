@@ -12,8 +12,8 @@ I wrote a C++ program to solve the problem. My program generates a balanced bina
 #### Demo
 Sample space of 4 tosses & probability: 
 
-<img src="4.png" height="350"/>
+<img src="img/4.png" height="350"/>
 
 Solution to the problem above!
 
-<img src="20.png" height="75"/>
+<img src="img/20.png" height="75"/>
